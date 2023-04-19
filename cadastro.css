@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+body{
+    font-family: Georgia ,  'Times New Roman' , Times , serif;
+    background-color: rgb( 229 ,  227 ,  255 );
+}
+
+li{
+display: inline-block;
+border: 5px;
+padding: 5px;
+}
+
+.Produto{
+    width: 10.8vw;
+}
+
+.Marca{
+    width: 23vw;
+}
+
+.Coleção{
+    width: 17vw;
+}
+
+#Descrição{
+    width: 50vw;
+}
+
+#Unidade{
+    width: 20vw;
+}
+
+.incluir{
+    margin-left: 50px;
+    margin-top: 50px;
+}
